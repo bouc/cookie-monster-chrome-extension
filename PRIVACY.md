@@ -69,6 +69,7 @@ For questions or concerns about this privacy policy:
 - **Website:** [christienbouc.com](https://christienbouc.com)
 - **GitHub:** [github.com/bouc](https://github.com/bouc)
 - **Repository:** [github.com/bouc/cookie-monster-chrome-extension](https://github.com/bouc/cookie-monster-chrome-extension)
+- **Privacy Policy:** [https://gist.github.com/bouc/ecef004ae2fdf8b6a22b00fb43510713](https://gist.github.com/bouc/ecef004ae2fdf8b6a22b00fb43510713)
 
 ## Compliance
 This extension complies with:
