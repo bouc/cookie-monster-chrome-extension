@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Cookie Monster</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="main-container">
+    <div class="header-section">
+      <h1 class="main-title" style="display: flex; align-items: center; gap: 8px;">
+        <img src="icon.png" alt="Cookie Monster Icon" style="height: 1.3em; width: 1.3em; vertical-align: middle; margin-right: 3px;">
+        Cookie Monster
+      </h1>
+      <div class="button-row" id="buttonRow">
+        <button id="extractBtn" class="action-btn extract">Extract</button>
+        <button id="downloadBtn" class="action-btn download">Download</button>
+        <button id="copyAllBtn" class="action-btn copy-all">Copy All</button>
+      </div>
+    </div>
+    <div class="code-sections" id="codeSections">
+      <!-- Cookie cards will be dynamically generated here -->
+    </div>
+  </div>
+  <script src="popup.js"></script>
+</body>
+</html> 

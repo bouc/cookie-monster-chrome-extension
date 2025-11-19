@@ -1,0 +1,25 @@
+# Chrome Extension - Ignore sensitive data and build files
+
+# Chrome storage data (contains extracted cookies)
+*.log
+*.cache
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.temp
+
+# Any backup files
+*.bak
+*.backup
+
